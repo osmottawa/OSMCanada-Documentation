@@ -13,7 +13,7 @@ Proposed
 
 **Article 1 NAME**
 
-* This association shall be known by the name OSM Canada, and is referred to hereinafter as "the Organization".
+* This organization shall be known by the name OSM Canada, and is referred to hereinafter as "the Organization".
 * The Organization is a corporation without share capital incorporated by Letters Patent under the laws of Ontario, bearing corporation number #######.
 
 **Article 2 OBJECTS**
@@ -152,9 +152,9 @@ In addition to their responsibilities as member of the Board of Directors, membe
 
 11.2 The vice-president shall, in the absence or disability of the president, perform the duties and exercise the powers of the president and shall perform such other duties as shall from time to time be imposed by the Board of Directors.
 
-11.3 The treasurer is responsible for care and custody of the funds and other financial assets of the association and for making payments for all approved expenses incurred by the association. The treasurer maintains books of the accounts which shall be made available for inspection by members at any reasonable time on request. At each annual general meeting, the treasurer shall present an account of the finances of the association and a budget for the following fiscal year, which shall include any consequent recommendations for changes in the annual dues paid by members. The treasurer shall maintain the membership list.
+11.3 The treasurer is responsible for care and custody of the funds and other financial assets of the organization and for making payments for all approved expenses incurred by the organization. The treasurer maintains books of the accounts which shall be made available for inspection by members at any reasonable time on request. At each annual general meeting, the treasurer shall present an account of the finances of the organization and a budget for the following fiscal year, which shall include any consequent recommendations for changes in the annual dues paid by members. The treasurer shall maintain the membership list.
 
-11.4 The secretary is responsible for general correspondence and for internal communication within the association. If a meeting secretary is not appointed, the secretary issues notices and agenda, and prepares, maintains and distributes minutes for the meetings of the general membership and of the Executive Committee. The secretary maintains the minute book of the Organization.
+11.4 The secretary is responsible for general correspondence and for internal communication within the organization. If a meeting secretary is not appointed, the secretary issues notices and agenda, and prepares, maintains and distributes minutes for the meetings of the general membership and of the Executive Committee. The secretary maintains the minute book of the Organization.
 
 **Article 12 MINUTES OF BOARD OF DIRECTORS**
 
@@ -187,7 +187,7 @@ If the Organization’s annual revenue requires, as specified by the relevant Ac
 
 16.1 The directors shall see that all necessary books and records containing information related to the corporation, including, but not limited to, general ledgers, meeting minutes, invoices, receipts, contracts, deposit slips, bank statements, accounting documents, governing documents, and operating budgets, are regularly and properly kept.
 
-16.2 The financial accounts and other books of the association shall be made available for inspection by members upon reasonable request at a time that is mutually convenient.
+16.2 The financial accounts and other books of the organization shall be made available for inspection by members upon reasonable request at a time that is mutually convenient.
 
 **Article 17 RULES AND REGULATIONS**
 
@@ -202,6 +202,6 @@ The Board of Directors may prescribe such rules and regulations not inconsistent
 18.3 The appropriate Ministry shall be notified of the changes to the by-laws.
 
 
-**Article 19 DISSOLUTION OF THE ASSOCIATION**
+**Article 19 DISSOLUTION OF THE ORGANIZATION**
 
 The Organization may be dissolved by a vote of two-thirds (2/3) of the membership present at a special general meeting convened for the purpose. Any monies or other assets held by the Organization at that time shall be donated to a charity to be determined by resolution at that meeting.
