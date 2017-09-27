@@ -33,11 +33,11 @@ to promote the development and use of Open StreetMap in Canada. That will will b
 
 The Head Office of the Organization shall be in the City of Ottawa in the Province of Ontario.
 
-** Article 5 OPERATING YEAR**
+**Article 5 OPERATING YEAR**
 
 The operating year for the Organization shall run from 1 May until 30 April of the following calendar year.
 
-** Article 6 MEMBERSHIP**
+**Article 6 MEMBERSHIP**
 
 6.1 Individual membership in the Organization shall be open to persons, aged 18 years or older, who reside within Canada.
 
